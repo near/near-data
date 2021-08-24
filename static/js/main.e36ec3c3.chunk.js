@@ -1,2 +1,2 @@
 (this["webpackJsonpnear-data"]=this["webpackJsonpnear-data"]||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var a=t(1),c=t.n(a),r=t(3),s=t.n(r),d=(t(8),t(9),t(0));var i=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("header",{className:"App-header",children:"NEAR DATA CENTRAL COMING SOON"})})};s.a.render(Object(d.jsx)(c.a.StrictMode,{children:Object(d.jsx)(i,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
-//# sourceMappingURL=main.dea13566.chunk.js.map
+//# sourceMappingURL=main.e36ec3c3.chunk.js.map
