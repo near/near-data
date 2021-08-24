@@ -1,1 +1,1 @@
-This project is for near data center.
+This project is for near data central, coming soon.
